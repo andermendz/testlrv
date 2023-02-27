@@ -33,7 +33,8 @@
             #form-container{
                 display:flex;
                 flex-direction: column;
-                border: 2px solid red;
+                border: 2px solid rgb(186, 186, 186);
+                border-radius: 20px;
           
               
             
