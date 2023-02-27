@@ -99,7 +99,7 @@
                                 <input type="file"  class="form-control" name="file" id="file" placeholder="file" />
                             </div>
                           <div>
-                            <label for="description" class="form-label">DESCRIPCION</label>
+                            <label for="description" class="form-label">DESCRIPCION DEL ARCHIVO</label>
                             <input type="text" class="form-control" name="description" id="description"  />
                           </div>
                      
